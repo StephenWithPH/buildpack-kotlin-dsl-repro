@@ -11,4 +11,3 @@ plugins {
 }
 
 rootProject.name = 'buildpack-kotlin-dsl-repro'
-include('app')
